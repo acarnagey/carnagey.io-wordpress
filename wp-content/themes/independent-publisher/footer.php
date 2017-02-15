@@ -13,7 +13,9 @@
 <footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
 	<ul class="social-icons">
 		<li><a href="https://www.youtube.com/channel/UCJ5PlES9R9w6dtvKCauERTw" target="_blank"><i class="fa fa-youtube-square"></i></a></li>
-		<li><a href="https://twitter.com/acarnagey" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+		<li><a href="https://github.com/acarnagey" target="_blank"><i class="fa fa-github-square"></i></a></li>
+		<li><a href="https://www.linkedin.com/in/adam-carnagey-05479713" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+		<li><a href="http://codepen.io/acarnagey/" target="_blank"><i class="fa fa-codepen"></i></a></li>
 	</ul>
 	<div class="site-info">
 		<?php echo independent_publisher_footer_credits(); ?>
